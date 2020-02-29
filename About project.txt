@@ -1,0 +1,7 @@
+only works on mac>Project name: Maze quest
+>Description: vikings village 3d
+>Release data: April 2019
+>Version: 1.0
+>Project meaning: learn the basics of unity 
+>Additionally: done on courses "game development 1" in TUMO
+>Github:  
